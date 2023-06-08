@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
 </div>
 
 ## 🔥 Stats

@@ -9,10 +9,10 @@
 
 - 🌐 See my [website](https://zizkovsky.eu) 
 
-- 📫 Contact me on my email [vaclav.zizkovsky@gmail.com](mailto:vaclav.zizkovsky@gmail.com)
+- 📫 Contact me on my email [vaclav@zizkovsky.eu](mailto:vaclav@zizkovsky.eu)
 
 ## 👨‍💻 About me
-<a href="mailto:vaclav.zizkovsky@gmail.com"><img src="https://img.shields.io/badge/Email-vaclav.zizkovsky%40gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge"></a>
+<a href="mailto:vaclav@zizkovsky.eu"><img src="https://img.shields.io/badge/Email-vaclav%zizkovsky.eu-blue?logo=gmail&logoColor=white&style=for-the-badge"></a>
 <a href="https://zizkovsky.eu"><img src="https://img.shields.io/badge/Website-zizkovsky.eu-green?logo=internet&logoColor=white&style=for-the-badge"></a>
 <p>I am young fullstack developer from the Czech Republic. Currently, I am studying on Gymnázium Nad Alejí in Prague, Czech Republic. Sometimes I also code in C#, Python or Java</p>
 
